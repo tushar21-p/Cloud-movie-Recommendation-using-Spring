@@ -2,18 +2,17 @@
 Spring Cloud Microservices - Movie Recommendation System
 
 The application includes the following microservices.
-
-Eureka Discovery Service
-Config Service
-User Service
-Movie Service
-Recommendation Service
-Recommendation Client Service
+1. Eureka Discovery Service
+2. Config Service
+3. User Service
+4. Movie Service
+5. Recommendation Service
+6. Recommendation Client Service
+   
 This reference application uses the following mixture of databases.
-
-MySQL - RDBMS
-Neo4j - GraphDB
-MongoDB - Document Store
+1. MySQL - RDBMS
+2. Neo4j - GraphDB
+3. MongoDB - Document Store
 
 **Postman**
 Use Postman to make requests. Collection of all requests are exported and can be found in root of this repository.
