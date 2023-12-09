@@ -1,7 +1,6 @@
 # Cloud-movie-Recommendation-using-Spring
-
-
 Spring Cloud Microservices - Movie Recommendation System
+
 The application includes the following microservices.
 
 Eureka Discovery Service
